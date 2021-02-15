@@ -1,5 +1,5 @@
 # BlackJack_Game-Oops-Project-1
-[BlackJack](https://en.wikipedia.org/wiki/Blackjack)
+[BlackJack Game](https://en.wikipedia.org/wiki/Blackjack) Using concept of OOPs programming in Python
 
 ### OBJECT OF THE GAME
 * Each participant attempts to beat the dealer by getting a count as close to 21 as possible, without going over 21
